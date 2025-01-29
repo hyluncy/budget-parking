@@ -1,7 +1,7 @@
 # Budget Parking
 
-[!NOTE] 
-Current Status: Ongoing / On Hold
+> [!NOTE] 
+> Current Status: Ongoing / On Hold
 
 ## Purpose
 An application where you can locate a Green P lot based on the cost of parking. 
