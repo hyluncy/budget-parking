@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Budget Parking
+
+## Current Status: Ongoing / On Hold
+
+## Purpose
+An application where you can locate a Green P lot based on the cost of parking. 
+
+## Why It's Important
+Created to assist users in planning a trip out to Toronto while on a budget. 
+
+## Current Progress
+On hold 
+
+This app was created to figure out how to incorporate Google Maps API into a web application, the use of Python scripts to manipulate/change data. The design/structure of the app will need to be recreated to ensure the backend/frontend do not clash. The goal would be to create a well-thought-out full-stack application. 
+
 
 ## Getting Started
 
